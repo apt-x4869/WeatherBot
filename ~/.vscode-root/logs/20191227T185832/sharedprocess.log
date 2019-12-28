@@ -1,0 +1,9 @@
+[2019-12-27 18:58:36.777] [sharedprocess] [info] main {"machineId":"97fce7877366d90545ca7b3e8f184ac56390ae8ff9eee225886600595d77cc38","windowId":2}
+[2019-12-27 18:58:37.809] [sharedprocess] [info] Deleted from disk felixfbecker.php-intellisense /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.13
+[2019-12-27 18:59:16.758] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-12-27 19:01:25.350] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-12-27 19:03:28.235] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/83a69596-e8c3-4521-bd2b-2f181585472a
+[2019-12-27 19:03:30.324] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-python.python-2019.11.50794: ms-python.python
+[2019-12-27 19:03:30.324] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2019.11.50794
+[2019-12-27 19:03:30.327] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-12-27 19:03:30.434] [sharedprocess] [info] Extensions installed successfully: ms-python.python
